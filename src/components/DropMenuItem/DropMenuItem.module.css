@@ -1,0 +1,13 @@
+.menuItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 0.4em;
+  padding-right: 0.4em;
+  border: 1px solid black;
+  color: var(--tg-theme-hint-color);
+}
+
+.menuItem_selected {
+  background-color: grey;
+}

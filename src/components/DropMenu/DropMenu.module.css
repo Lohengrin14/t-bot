@@ -1,0 +1,20 @@
+.container {
+  width: 100%;
+  cursor: pointer;
+}
+.container__menu {
+  display: flex;
+  background-color: lightblue;
+}
+.menuTitle {
+  color: var(--tg-theme-link-color);
+}
+
+.dropitem {
+  display: none;
+}
+
+.dropitem__acvite {
+  display: flex;
+  flex-direction: column;
+}

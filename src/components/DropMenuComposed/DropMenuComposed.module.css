@@ -1,0 +1,17 @@
+.container {
+  width: 100%;
+  cursor: pointer;
+}
+
+.menuTitle {
+  color: var(--tg-theme-link-color);
+}
+
+.dropitem {
+  display: none;
+}
+
+.dropitem__acvite {
+  display: flex;
+  flex-direction: column;
+}

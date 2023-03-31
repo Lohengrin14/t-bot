@@ -1,0 +1,25 @@
+.container {
+  border: 1px solid black;
+  display: flex;
+  padding: 0.3em;
+  border-radius: 5px;
+  margin-top: 0.5em;
+  color: var(--tg-theme-text-color);
+  background-color: var(--tg-theme-bg-color);
+}
+
+.vacancy {
+  padding: 2px;
+}
+.vacancy__title {
+  display: flex;
+  justify-content: space-between;
+}
+.vacancy__date {
+  color: var(--tg-theme-hint-color);
+}
+
+.vacancy__discription {
+  font-size: 1.3em;
+  font-weight: 500;
+}

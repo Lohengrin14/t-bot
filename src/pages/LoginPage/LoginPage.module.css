@@ -1,0 +1,12 @@
+.body {
+  color: blue;
+}
+
+.portal {
+  width: 50px;
+  height: 20px;
+  color: red;
+  position: absolute;
+  background-color: red;
+  bottom: 200px;
+}

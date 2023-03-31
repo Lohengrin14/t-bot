@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding-left: 3%;
+  padding-right: 3%;
+
+  font-size: 1.3em;
+  height: 2em;
+
+  background-color: var(--tg-theme-secondary-bg-color);
+}
